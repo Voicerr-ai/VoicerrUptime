@@ -1,16 +1,12 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Voicerr-ai
+repo: Voicerr-Uptime
 
 sites:
   - name: Voicerr AI
     url: https://voicerr.ai
   - name: Voicerr White-Label websites
     url: https://asd.site.voicerr.ai
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,6 +22,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
