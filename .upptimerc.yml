@@ -17,6 +17,9 @@ status-website:
   name: Voicerr-ai
   introTitle: "**Voicerr Uptime Status** to view the uptime of voicerr and Voicerr vapi whitelabel websites."
   introMessage: This is just an uptime tracker
+  theme:
+    themeMode: light    # forces light mode
+    preferredTheme: light  # default to light if user hasn't set a preference
   navbar:
     - title: Status
       href: /
