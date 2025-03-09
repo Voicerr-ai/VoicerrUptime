@@ -5,10 +5,8 @@ repo: VoicerrUptime
 sites:
   - name: Voicerr
     url: https://voicerr.ai
-  - name: Voicerr White-label Website
+  - name: Voicerr White-label Websites
     url: https://asd.site.voicerr.ai
-  - name: google
-    url: https://google.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
