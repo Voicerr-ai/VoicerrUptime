@@ -3,9 +3,9 @@ owner: Voicerr-ai
 repo: Voicerr-Uptime
 
 sites:
-  - name: Voicerr AI
+  - name: Voicerr
     url: https://voicerr.ai
-  - name: Voicerr White-Label websites
+  - name: Voicerr White-label Website
     url: https://asd.site.voicerr.ai
 
 status-website:
@@ -22,3 +22,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
