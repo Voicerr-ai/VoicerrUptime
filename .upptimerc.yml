@@ -20,7 +20,7 @@ status-website:
   introMessage: This is just an uptime tracker
   customCss: |
     /* Remove the entire footer */
-    footer {
+    [href*="upptime.js.org"] {
       display: none !important;
     }
   theme:
