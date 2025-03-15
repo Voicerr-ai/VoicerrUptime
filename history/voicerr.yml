@@ -1,7 +1,7 @@
 url: https://voicerr.ai
-status: up
-code: 200
-responseTime: 542
-lastUpdated: 2025-03-14T23:21:38.799Z
+status: down
+code: 500
+responseTime: 5515
+lastUpdated: 2025-03-15T17:59:49.204Z
 startTime: 2025-03-09T06:41:45.956Z
 generator: Upptime <https://github.com/upptime/upptime>
