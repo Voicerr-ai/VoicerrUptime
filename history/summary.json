@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 905,
     "timeDay": 2350,
-    "timeWeek": 905,
+    "timeWeek": 1050,
     "timeMonth": 905,
     "timeYear": 905,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "https://asd.site.voicerr.ai",
     "icon": "https://icons.duckduckgo.com/ip3/asd.site.voicerr.ai.ico",
     "slug": "voicerr-white-label-websites",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,9 +30,11 @@
     "uptimeYear": "100.00%",
     "time": 976,
     "timeDay": 1043,
-    "timeWeek": 976,
+    "timeWeek": 1026,
     "timeMonth": 976,
     "timeYear": 976,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-16": 0
+    }
   }
 ]
