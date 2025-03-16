@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/voicerr.ai.ico",
     "slug": "voicerr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 916,
-    "timeDay": 2311,
-    "timeWeek": 916,
-    "timeMonth": 916,
-    "timeYear": 916,
-    "dailyMinutesDown": {
-      "2025-03-15": 1
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 905,
+    "timeDay": 2350,
+    "timeWeek": 905,
+    "timeMonth": 905,
+    "timeYear": 905,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Voicerr White-label Websites",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 972,
-    "timeDay": 842,
-    "timeWeek": 972,
-    "timeMonth": 972,
-    "timeYear": 972,
+    "time": 976,
+    "timeDay": 1043,
+    "timeWeek": 976,
+    "timeMonth": 976,
+    "timeYear": 976,
     "dailyMinutesDown": {}
   }
 ]
