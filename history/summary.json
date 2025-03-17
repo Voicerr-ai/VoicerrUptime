@@ -4,18 +4,20 @@
     "url": "https://voicerr.ai",
     "icon": "https://icons.duckduckgo.com/ip3/voicerr.ai.ico",
     "slug": "voicerr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 896,
-    "timeDay": 660,
-    "timeWeek": 1261,
-    "timeMonth": 896,
-    "timeYear": 896,
-    "dailyMinutesDown": {}
+    "time": 1065,
+    "timeDay": 3060,
+    "timeWeek": 1681,
+    "timeMonth": 1065,
+    "timeYear": 1065,
+    "dailyMinutesDown": {
+      "2025-03-17": 0
+    }
   },
   {
     "name": "Voicerr White-label Websites",
@@ -23,18 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/asd.site.voicerr.ai.ico",
     "slug": "voicerr-white-label-websites",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1002,
     "timeDay": 1296,
     "timeWeek": 1162,
     "timeMonth": 1002,
     "timeYear": 1002,
-    "dailyMinutesDown": {
-      "2025-03-17": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
