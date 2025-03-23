@@ -22,19 +22,19 @@
     "url": "https://asd.site.voicerr.ai",
     "icon": "https://icons.duckduckgo.com/ip3/asd.site.voicerr.ai.ico",
     "slug": "voicerr-white-label-websites",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1713,
-    "timeDay": 11547,
-    "timeWeek": 3435,
-    "timeMonth": 1713,
-    "timeYear": 1713,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1687,
+    "timeDay": 8005,
+    "timeWeek": 3184,
+    "timeMonth": 1687,
+    "timeYear": 1687,
     "dailyMinutesDown": {
-      "2025-03-23": 0
+      "2025-03-23": 22
     }
   }
 ]
