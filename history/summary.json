@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 973,
-    "timeDay": 845,
-    "timeWeek": 1196,
-    "timeMonth": 973,
-    "timeYear": 973,
+    "time": 967,
+    "timeDay": 752,
+    "timeWeek": 647,
+    "timeMonth": 967,
+    "timeYear": 967,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "voicerr-white-label-websites",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 1676,
-    "timeDay": 8165,
-    "timeWeek": 3223,
-    "timeMonth": 1676,
-    "timeYear": 1676,
+    "time": 1655,
+    "timeDay": 983,
+    "timeWeek": 3406,
+    "timeMonth": 1655,
+    "timeYear": 1655,
     "dailyMinutesDown": {
       "2025-03-23": 22
     }
