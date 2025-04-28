@@ -4,18 +4,20 @@
     "url": "https://voicerr.ai",
     "icon": "https://icons.duckduckgo.com/ip3/voicerr.ai.ico",
     "slug": "voicerr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 594,
-    "timeWeek": 640,
-    "timeMonth": 824,
-    "timeYear": 890,
-    "dailyMinutesDown": {}
+    "time": 874,
+    "timeDay": 297,
+    "timeWeek": 578,
+    "timeMonth": 798,
+    "timeYear": 874,
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   },
   {
     "name": "Voicerr White-label Websites",
@@ -28,11 +30,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
-    "time": 1415,
-    "timeDay": 769,
-    "timeWeek": 1048,
+    "time": 1403,
+    "timeDay": 608,
+    "timeWeek": 1039,
     "timeMonth": 1197,
-    "timeYear": 1415,
+    "timeYear": 1403,
     "dailyMinutesDown": {
       "2025-04-23": 24,
       "2025-03-23": 22
