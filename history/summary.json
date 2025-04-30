@@ -22,7 +22,7 @@
     "url": "https://asd.site.voicerr.ai",
     "icon": "https://icons.duckduckgo.com/ip3/asd.site.voicerr.ai.ico",
     "slug": "voicerr-white-label-websites",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
@@ -34,6 +34,7 @@
     "timeMonth": 1185,
     "timeYear": 1393,
     "dailyMinutesDown": {
+      "2025-04-30": 0,
       "2025-04-23": 24,
       "2025-03-23": 22
     }
