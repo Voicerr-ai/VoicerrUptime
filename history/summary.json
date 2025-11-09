@@ -4,10 +4,10 @@
     "url": "https://voicerr.ai",
     "icon": "https://icons.duckduckgo.com/ip3/voicerr.ai.ico",
     "slug": "voicerr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 1063,
@@ -16,6 +16,7 @@
     "timeMonth": 1783,
     "timeYear": 1063,
     "dailyMinutesDown": {
+      "2025-11-09": 1,
       "2025-10-22": 42,
       "2025-05-31": 15
     }
@@ -27,9 +28,9 @@
     "slug": "voicerr-white-label-websites",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.89%",
     "time": 1720,
     "timeDay": 8560,
@@ -37,7 +38,6 @@
     "timeMonth": 4353,
     "timeYear": 1720,
     "dailyMinutesDown": {
-      "2025-11-09": 13,
       "2025-11-07": 20,
       "2025-11-06": 41,
       "2025-11-05": 69,
